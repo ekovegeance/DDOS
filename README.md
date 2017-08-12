@@ -51,13 +51,13 @@ $ wget https://raw.githubusercontent.com/GinjaChris/pentmenu/master/pentmenu
 - Make it executable:
 
 ```
-$ chmod +x ./pentmenu
+$ chmod +x ./ddos
 ```
 
 - Run it:
 
 ```
-$ ./pentmenu
+$ ./ddos
 ```
 
 Alternatively, use git clone, or download the latest release from https://github.com/GinjaChris/pentmenu/releases, extract it and run the script.
