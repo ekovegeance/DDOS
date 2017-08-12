@@ -45,7 +45,7 @@ Tested on Debian and Arch.
 - Download the script:
 
 ```
-$ wget https://raw.githubusercontent.com/GinjaChris/pentmenu/master/pentmenu
+$ wget https://github.com/ekovegeance/DDOS.git
 ```
 
 - Make it executable:
