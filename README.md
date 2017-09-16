@@ -60,7 +60,6 @@ $ chmod +x ./ddos
 $ ./ddos
 ```
 
-Alternatively, use git clone, or download the latest release from https://github.com/GinjaChris/pentmenu/releases, extract it and run the script.
 
 
 ## Module detail
