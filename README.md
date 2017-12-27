@@ -13,9 +13,7 @@ Designed to be a simple way to implement various network pentesting functions, i
 
 Tested on Debian and Arch.
 
-### Donate
-- If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
-- [![Donation](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://blockchain.info/address/13StAcVxmfSSh6DPiJhRLe9DNBF7xP42ia)
+
 
 ## Requirements:
 
@@ -152,20 +150,26 @@ Pentmenu is available as a [package](https://archstrike.org/packages/pentmenu) o
 
 ## Donations
 
-- Donation: Send to [bitcoin](https://blockchain.info/address/13StAcVxmfSSh6DPiJhRLe9DNBF7xP42ia)
-- Address bitcoin : 13StAcVxmfSSh6DPiJhRLe9DNBF7xP42ia
-- Address ether   : 0x6664e250107110c0C3642029a18c9ce8F4C27288
+- Address bitcoin : 1CXqJujxt3MV9ujRwwQtM6Y1oeWsGJfEbc
+- Address dogecoin   : D8LgXt1yjTXxSyMkxb6e5s26WQTmEx1JNj
 
 
-## :octocat: Credits
-1. Twitter @ekovegeance7  main developer of wece
-2. https://www.parrotsec.org
-3. https://dracos-linux.org
-4. Offensive Secuirty for the awesome os
-5. http://www.kali.org
-6. http://www.offensive-security.com
+ 
+
+## :octocat: Contact
+- Website : https://evsystemsite.wordpress.com/
+- Facebook : https://web.facebook.com/eko.vegeance.1
+- Twitter : https://twitter.com/ekovegeance7
+- Telegram : https://t.me/evsystemsite
+- Google+ : https://plus.google.com/117233958552972040322?hl=id
+
+## : Partner
+- Xenta OS : http://www.xentaos.org/
+- IndoXploit : https://www.indoxploit.or.id/
+- dracOs Linux : https://dracos-linux.org/
 
 ## Disclaimer
 
 ***Note: modifications, changes, or alterations to this sourcecode is acceptable, however,any public releases utilizing this code must be approved by writen this tool ( evsystem ).***
+
 
