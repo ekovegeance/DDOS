@@ -1,8 +1,11 @@
 # DDOS
 
+![DDOS](https://github.com/ekovegeance/Picture/blob/master/ddos.jpg)
 
 ## Version 1.1.0
 
+![Build Status](https://travis-ci.org/pages-themes/leap-day.svg?branch=master)
+![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)
 
 **A bash script inspired by pentbox.**
 
@@ -158,7 +161,7 @@ Pentmenu is available as a [package](https://archstrike.org/packages/pentmenu) o
 
 ## :octocat: Contact
 - Website : https://evsystemsite.wordpress.com/
-- Facebook : https://web.facebook.com/eko.vegeance.1
+- Facebook : https://web.facebook.com/evsystem.org
 - Twitter : https://twitter.com/ekovegeance7
 - Telegram : https://t.me/evsystemsite
 - Google+ : https://plus.google.com/117233958552972040322?hl=id
