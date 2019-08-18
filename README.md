@@ -2,7 +2,7 @@
 
 ![DDOS](https://github.com/ekovegeance/Picture/blob/master/ddos.jpg)
 
-## Version 1.1.0
+## Version 1.2.4
 
 ![Build Status](https://travis-ci.org/pages-themes/leap-day.svg?branch=master)
 ![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)

