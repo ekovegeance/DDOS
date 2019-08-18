@@ -1017,7 +1017,7 @@ showreadme()
 #use curl to show the readme file
 #i should probably add a check for a local copy
 {
-curl -s https://github.com/ekovegeance/DDOS/wiki | more
+curl -s https://ekovegeance.github.io/DDOS/readme.txt | more
 }
 ##END SHOWREADME##
 ##################
