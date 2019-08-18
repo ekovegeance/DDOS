@@ -1017,7 +1017,7 @@ showreadme()
 #use curl to show the readme file
 #i should probably add a check for a local copy
 {
-curl -s https://raw.githubusercontent.com/GinjaChris/pentmenu/master/README.md | more
+curl -s https://github.com/ekovegeance/DDOS/blob/master/readme | more
 }
 ##END SHOWREADME##
 ##################
