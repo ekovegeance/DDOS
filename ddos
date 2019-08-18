@@ -1097,9 +1097,10 @@ echo -e $white
 echo "    ______________________________________________"
 echo "===>|  PENTMENU TOOLS DDOS                        |"
 echo "    |   |->EDITOR BY:Eko Saputra (evsystem)       |"
-echo "    |    ->Version :1.1.0                         |"
+echo "    |    ->Version :1.2.4                         |"
 echo "===>| follow me on Github : @ekovegeance          |"
 echo "    |   twitter :@ekovegeance7                    |"
+echo "    |   Website :evsystem.github.io               |"
 echo "    |      DOWN DOWN DOWN  DOWN DOWN DOWN!!!      |"
 echo "===>|_____________________________________________|"
 mainmenu
