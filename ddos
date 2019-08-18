@@ -52,7 +52,7 @@ read warning
 echo -e $lightgreen
 #!/bin/bash
 #set the prompt to show you are in pentmenu and not standard shell
-PS3="Pentmenu>"
+PS3="Pentmenu@evsystem>"
 
 ##MAINMENU##
 ##################
