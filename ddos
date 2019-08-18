@@ -44,7 +44,7 @@ echo "  |000000000000000000000000000000|___/00000000000000000000000"
 echo "  |0000000000000000000000000000000000000000000000000000000000"
 echo "  "
 echo -e $lightgreen
-echo " ----[C] 2017 |ParrotSec |Dracos |Hacker Indonesia |Lubuk Alung |"
+echo " ----[C] 2019 |ParrotSec |Dracos |Hacker Indonesia |Palembang |"
 echo ""
 echo -e $red
 echo -n "tekan ENTER untuk melanjutkan .............."
@@ -1080,7 +1080,7 @@ fi }
 #so the welcome message MUST be placed at the end of the script
 	clear && echo ""
 echo " "
-echo -e $blue
+echo -e $red
 echo " "
 echo " ddddddd     dddddddd      oo00000000        ssssss                  "
 echo " dd     d    dd       d    oo      00      ss                  \     "
@@ -1093,7 +1093,7 @@ echo " ddddddd     ddddddddd     oooooooooo      ssssss    MASTER          "
 
 
 echo ""
-echo -e $red
+echo -e $white
 echo "    ______________________________________________"
 echo "===>|  PENTMENU TOOLS DDOS                        |"
 echo "    |   |->EDITOR BY:Eko Saputra (evsystem)       |"
