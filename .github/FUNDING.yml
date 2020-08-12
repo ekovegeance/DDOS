@@ -1,12 +1,16 @@
 # Ini adalah platform model pendanaan yang didukung
 </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
-github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
-patreon: # Replace with a single Patreon username
-open_collective: # Replace with a single Open Collective username
+github  : # Ganti dengan hingga 4 nama pengguna yang mendukung Sponsor GitHub misalnya, [pengguna1, pengguna2]
+patreon  : # Ganti dengan satu nama pengguna Patreon
+open_collective  : # Ganti dengan satu nama pengguna Open Collective
 ko_fi: # Replace with a single Ko-fi username
 tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay: # Replace with a single Liberapay username
-issuehunt: # Replace with a single IssueHunt username
-otechie: # Replace with a single Otechie username
-custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+community_bridge            : # Ganti dengan satu nama proyek Jembatan Komunitas misalnya, pengecoran awan
+liberapay : # Ganti dengan satu nama pengguna Liberapay
+issuehunt : # Ganti dengan satu nama pengguna IssueHunt
+otechie   : # Ganti dengan satu nama pengguna Otechi
+kustom      : # Ganti hingga 4 URL sponsor kustom misalnya, ['link1', 'link2']
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </ s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </ sgithub: [octocat, surftocat]
+patreon: octocat
+tidelift   : paket npm / octo
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
