@@ -1,16 +1,4 @@
-# Ini adalah platform model pendanaan yang didukung
-</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
-github  : # Ganti dengan hingga 4 nama pengguna yang mendukung Sponsor GitHub misalnya, [pengguna1, pengguna2]
-patreon  : # Ganti dengan satu nama pengguna Patreon
-open_collective  : # Ganti dengan satu nama pengguna Open Collective
-ko_fi: # Replace with a single Ko-fi username
-tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge            : # Ganti dengan satu nama proyek Jembatan Komunitas misalnya, pengecoran awan
-liberapay : # Ganti dengan satu nama pengguna Liberapay
-issuehunt : # Ganti dengan satu nama pengguna IssueHunt
-otechie   : # Ganti dengan satu nama pengguna Otechi
-kustom      : # Ganti hingga 4 URL sponsor kustom misalnya, ['link1', 'link2']
-</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </ s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </ sgithub: [octocat, surftocat]
-patreon: octocat
-tidelift   : paket npm / octo
-</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+# repo:     ekovegeance/DDOS
+# filename: FUNDING.YML
+
+custom: ["https://paypal.me/evsystem"]
