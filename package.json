@@ -1,0 +1,25 @@
+{
+  "name": "ddos",
+  "version": "1.2.4",
+  "description": "The DDoS Master Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekovegeance/DDOS.git"
+  },
+  "keywords": [
+    "ddos"
+  ],
+  "author": "ekovegeance",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ekovegeance/DDOS/issues"
+  },
+  "homepage": "https://github.com/ekovegeance/DDOS#readme",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}
