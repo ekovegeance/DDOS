@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title: The DDoS Master
+logo: /assets/img/ddos.jpg
+description: The DDoS Master
+show_downloads: true
+google_analytics:
