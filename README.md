@@ -160,11 +160,10 @@ Pentmenu is available as a [package](https://archstrike.org/packages/pentmenu) o
  
 
 ## :octocat: Contact
-- Website : https://evsystem.github.io
-- Facebook : https://web.facebook.com/evsystem.io
+- Website : https://www.ekovegeance.xyz
+- Facebook : https://web.facebook.com/ekovegeance.xyz
 - Twitter : https://twitter.com/ekovegeance7
-- Telegram : https://t.me/evsystemsite
-- Google+ : https://plus.google.com/117233958552972040322?hl=id
+- Telegram : https://t.me/ekovegeance
 
 ## : Partner
 - Xenta OS : http://www.xentaos.org/
