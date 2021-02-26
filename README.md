@@ -46,7 +46,7 @@ Tested on Debian and Arch.
 - Download the script:
 
 ```
-$ wget https://github.com/ekovegeance/DDOS.git
+$ wget https://raw.githubusercontent.com/ekovegeance/DDOS/master/ddos
 ```
 
 - Make it executable:
